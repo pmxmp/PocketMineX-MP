@@ -4,9 +4,9 @@
 			<img src="https://github.com/axolotl-pm/PocketMine-MP/blob/stable/.github/readme/pocketmine.png" alt="The PocketMine-MP logo" title="PocketMine" loading="eager" />
 		<![endif]-->
 	<picture>
- 		 <source media="(prefers-color-scheme: dark)" srcset=".github/readme/pocketminex-dark.png">
- 		 <source media="(prefers-color-scheme: light)" srcset=".github/readme/pocketminex-light.png">
- 		 <a href="https://pmmp.io"><img alt="PocketMineX-MP" src=".github/readme/pocketminex-light.png"></a>
+  		<source media="(prefers-color-scheme: dark)" srcset=".github/readme/pocketminex-dark.png">
+  		<source media="(prefers-color-scheme: light)" srcset=".github/readme/pocketminex-light.png">
+  		<img alt="PocketMineX-MP" src=".github/readme/pocketminex-light.png">
 	</picture>
 	</a><br>
 	<b>A highly customisable, open source server software for Minecraft: Bedrock Edition written in PHP</b>
