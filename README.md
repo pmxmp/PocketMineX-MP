@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=".github/readme/pocketminex-dark.png" width="400">
-    <source media="(prefers-color-scheme: light)" srcset=".github/readme/pocketminex-light.png" width="400">
+    <source media="(prefers-color-scheme: dark)" srcset=".github/readme/pocketminex-dark.png" width="800">
+    <source media="(prefers-color-scheme: light)" srcset=".github/readme/pocketminex-light.png" width="800">
     <img alt="PocketMineX-MP" src=".github/readme/pocketminex-light.png" width="400">
   </picture>
 </p>
